@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0adb541c87f839b4788f24c4fb9b637d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startServerButton: {instanceID: 0}
+  - startHostButton: {fileID: 7931372873109712448, guid: bff3b7e53349700418a0cacd4f334a8a, type: 3}
+  - startClientButton: {fileID: 3981314966773075670, guid: 905b5de232132674cb32dc2947c5a469, type: 3}
+  - joinCodeInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
